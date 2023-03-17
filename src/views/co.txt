@@ -1,0 +1,110 @@
+   <div class="contain delivery">
+       <div class="row delivery-details">
+         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 delivery-img">
+           <img src="../assets/aim.png" class="img-fluid"/>
+         </div>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <h3 class="mb-5 mt-4 easy-tit">Aims and Objectives</h3>
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="pb-2 mak"><i class="fa fa-check ic"></i> <strong>to develop an automated system for ticket acquisition that can be used by any stadium</strong></div>
+                 <div class="pb-2 mak"><i class="fa fa-check ic"></i> <strong>to facilitate easy booking and management of ticket based on available seats</strong></div>
+                  <div class="pb-2 mak"><i class="fa fa-check ic"></i> <strong>to provide a secure system for issuing tickets</strong></div>
+                  <div class="pb-2 mak"><i class="fa fa-check ic"></i> <strong>to develop a system that will help prevent overcrowding of the stadium</strong></div>
+              </div>
+              
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mt-5">
+                    <a href="#"><button class="deliv-button">LEARN MORE</button></a>
+                </div>
+            </div>
+         </div>
+       </div>
+     </div>
+        <!-- Section 2 -->
+      <div id="">
+          <div class="contain about" id="about">
+          <div class="row about-details">
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3 class="mb-5 mt-4 about-tit">ABOUT THE PROJECT</h3>
+                <p class="mb-5 about-content">The aim of this project work is to design and implement a football stadium ticket acquisition system. Stadiums are in the business of reserving seats whenever there is a major event to be held in the stadium. For an effective process of seat allocation, there is need for an automated system that will ensure that tickets sold are recorded for easy confirmation before entry into the stadium to witness the event and also to enable the administrator gain easy access to records of tickets sold. In an attempt to make this possible, an automated football stadium ticket acquisition system has been proposed and developed to facilitate reservation of seats pertaining to the general and VIP categories of a football stadium.</p>
+                <a href="#"><button class="about-button">LEARN MORE</button></a>
+            </div>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 delivery-img">
+           <img src="../assets/team.png" class="img-fluid"/>
+         </div>
+       </div>
+     </div>
+      </div>
+
+
+       <footer class="footer-section">
+            <div class="contain footer-top">
+              <div class="row p-lg-2">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 footer-widget mb-5">
+                  <div class="about-widget">
+                      <div><h4 class="mb-4">FSTS</h4></div>
+                      <p class="mb-2">FSTS is a stadium ticketing software for ticket acquisition that can be used by any stadium to facilitate easy booking and management of ticket based on available seat and provide a secure system for issuing tickets.</p>
+                    <div class="social pt-1">
+                      <a href=""><i class="fab fa-twitter-square"></i></a>
+                      <a href=""><i class="fab fa-facebook-square"></i></a>
+                      <a href=""><i class="fab fa-instagram-square"></i></a>
+                    
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 footer-widget mb-5 text-lg-center">
+                  <h6 class="fw-title mb-3">USEFUL LINK</h6>
+                  <div class="dobule-link">
+                    <ul>
+                      <li><a href="/">Home</a></li>
+                      <li><a href="/about">About</a></li>
+                      <li><a href="/contact">Contact</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 footer-widget mb-5">
+                  <h6 class="fw-title mb-3">CONTACT</h6>
+                  <ul class="contact">
+                    <li class="ms-lg-4"><p><i class="fa fa-phone me-2"></i> +234 812 466 6392</p></li>
+                    <li class="ms-lg-4"><p><i class="fa fa-envelope me-2"></i> <a href="mailto:fstssystem@gmail.com">fstssystem@gmail.com</a></p></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="copyright">
+              <div class="contain p-4">
+                    Copyright &copy; All rights reserved
+              </div>		
+            </div>
+       </footer>
+
+       <div class="contact-section-full">
+      <div class="contain">
+        <div class="row d-lg-flex align-items-center">
+           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 d-block d-lg-none mb-4">
+               <div class="image-right">
+                   <img src="../assets/contact2.png" class="img-fluid"/>
+               </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+              <div class="info-right">
+                 <h2>GET IN TOUCH </h2>
+                 <h3 class="mb-4"><strong>TEL:</strong> +234 812 466 6392</h3>
+                   <h3 ><strong>MAIL:</strong> <a href="mailto:fstssystem@gmail.com">fstssystem@gmail.com</a> </h3>
+                
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 d-none d-lg-block">
+               <div class="image-right">
+                   <img src="../assets/contact2.png" class="img-fluid"/>
+               </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+
+     <h2>GET IN TOUCH </h2>
+                 <h3 class="mb-4"><strong>TEL:</strong> +234 812 466 6392</h3>
+                   <h3 ><strong>MAIL:</strong> <a href="mailto:fstssystem@gmail.com">fstssystem@gmail.com</a> </h3>
+                
